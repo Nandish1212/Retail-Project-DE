@@ -6,5 +6,5 @@ BUSINESS REQUIREMENTS
 4. WE have store and product data available in AZURE SQL DB.
 5. WE have customer data coming from API - JSON FORMAT.
 
-**Final Dashboard**
+##Final Dashboard
 <br><img width="1215" height="676" alt="image" src="https://github.com/user-attachments/assets/7202b166-d832-48c4-9380-6ff621a947ce" />
